@@ -1,4 +1,4 @@
-# IPD Prototype — Intelligent Polygon-based Intersection Density Detection
+# Intelligent Polygon-based Intersection Density Detection
 
 A computer-vision prototype that counts vehicles per lane at a road intersection using
 YOLO object detection, and computes adaptive signal timing from live density data.
